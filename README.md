@@ -3,9 +3,9 @@ cocos2d-x_mobile_games
 
 這是《Cocos2d-x手机游戏开发与项目实战详解》書內的範例原始程式碼，作者沈大海，清华大学出版社。
 
-其中註解已轉成繁體中文。
+程式碼中的註解已轉成繁體中文。
 
 注意：書中範例使用2.2版的Cocos2d-x。
 
-将專案原始碼複製到cocos2d-x2.2.0安裝目錄下的projects子目錄，然後以Xcode開啟iOS專案檔。
+把專案原始碼複製到cocos2d-x2.2.0安裝目錄下的projects子目錄，然後以Xcode開啟iOS專案檔。
 
