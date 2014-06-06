@@ -1,0 +1,9 @@
+//
+// Prefix header for all source files of the 'Angry_Squirrel' target in the 'Angry_Squirrel' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#import "const.h"
+#endif

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation image1="G:\风暴要塞\怪物\guaiwu.png" imgNum="1" version="4">
+    <Modules>
+        <Module h="56" image_id="0" w="40" x="20" y="12"/>
+        <Module h="59" image_id="0" w="39" x="62" y="12"/>
+        <Module h="60" image_id="0" w="38" x="102" y="12"/>
+        <Module h="59" image_id="0" w="39" x="140" y="11"/>
+        <Module h="58" image_id="0" w="38" x="180" y="12"/>
+        <Module h="60" image_id="0" w="40" x="218" y="10"/>
+        <Module h="61" image_id="0" w="38" x="258" y="11"/>
+        <Module h="61" image_id="0" w="40" x="297" y="12"/>
+        <Module h="72" image_id="0" w="55" x="350" y="3"/>
+        <Module h="64" image_id="0" w="47" x="19" y="83"/>
+        <Module h="63" image_id="0" w="54" x="75" y="83"/>
+        <Module h="59" image_id="0" w="50" x="130" y="87"/>
+        <Module h="73" image_id="0" w="47" x="184" y="74"/>
+        <Module h="76" image_id="0" w="55" x="237" y="75"/>
+        <Module h="73" image_id="0" w="55" x="296" y="74"/>
+        <Module h="47" image_id="0" w="56" x="351" y="93"/>
+        <Module h="45" image_id="0" w="59" x="407" y="102"/>
+        <Module h="48" image_id="0" w="56" x="10" y="164"/>
+        <Module h="57" image_id="0" w="41" x="76" y="158"/>
+        <Module h="52" image_id="0" w="42" x="121" y="157"/>
+        <Module h="60" image_id="0" w="61" x="166" y="153"/>
+        <Module h="57" image_id="0" w="64" x="229" y="156"/>
+        <Module h="59" image_id="0" w="62" x="298" y="151"/>
+        <Module h="56" image_id="0" w="60" x="360" y="156"/>
+        <Module h="53" image_id="0" w="30" x="13" y="217"/>
+        <Module h="53" image_id="0" w="34" x="46" y="215"/>
+        <Module h="54" image_id="0" w="38" x="80" y="215"/>
+        <Module h="53" image_id="0" w="34" x="119" y="215"/>
+        <Module h="49" image_id="0" w="34" x="157" y="218"/>
+        <Module h="55" image_id="0" w="32" x="198" y="218"/>
+        <Module h="55" image_id="0" w="37" x="235" y="218"/>
+        <Module h="54" image_id="0" w="33" x="278" y="220"/>
+        <Module h="37" image_id="0" w="57" x="316" y="223"/>
+        <Module h="36" image_id="0" w="57" x="376" y="220"/>
+        <Module h="38" image_id="0" w="53" x="346" y="282"/>
+        <Module h="51" image_id="0" w="40" x="297" y="274"/>
+        <Module h="54" image_id="0" w="39" x="258" y="276"/>
+        <Module h="53" image_id="0" w="39" x="219" y="275"/>
+        <Module h="52" image_id="0" w="37" x="182" y="275"/>
+        <Module h="52" image_id="0" w="38" x="144" y="274"/>
+        <Module h="54" image_id="0" w="39" x="100" y="274"/>
+        <Module h="53" image_id="0" w="39" x="57" y="273"/>
+        <Module h="50" image_id="0" w="38" x="14" y="273"/>
+        <Module h="44" image_id="0" w="45" x="14" y="327"/>
+        <Module h="60" image_id="0" w="46" x="64" y="329"/>
+        <Module h="50" image_id="0" w="45" x="112" y="332"/>
+        <Module h="53" image_id="0" w="48" x="158" y="333"/>
+        <Module h="57" image_id="0" w="43" x="209" y="332"/>
+        <Module h="54" image_id="0" w="46" x="255" y="332"/>
+        <Module h="51" image_id="0" w="51" x="304" y="327"/>
+        <Module h="39" image_id="0" w="53" x="360" y="339"/>
+    </Modules>
+    <Frames>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="0" px="-19.0" py="-34.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="1" px="-19.0" py="-37.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="2" px="-19.0" py="-36.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="3" px="-20.0" py="-36.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="4" px="-20.0" py="-35.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="5" px="-21.0" py="-38.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="6" px="-21.0" py="-37.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="7" px="-20.0" py="-36.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="24" px="-13.0" py="-33.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="25" px="-17.0" py="-34.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="26" px="-20.0" py="-36.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="27" px="-17.0" py="-34.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="28" px="-17.0" py="-34.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="29" px="-15.0" py="-35.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="30" px="-17.0" py="-37.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="31" px="-16.0" py="-34.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="42" px="-19.0" py="-29.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="41" px="-20.0" py="-32.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="40" px="-21.0" py="-32.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="39" px="-19.0" py="-30.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="38" px="-18.0" py="-30.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="37" px="-18.0" py="-32.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="36" px="-17.0" py="-33.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="35" px="-18.0" py="-31.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="0" px="-19.0" py="-34.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="9" px="-20.0" py="-41.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="10" px="-25.0" py="-39.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="11" px="-17.0" py="-45.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="12" px="-17.0" py="-64.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="13" px="-22.0" py="-63.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="14" px="-20.0" py="-55.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="8" px="-19.0" py="-50.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="15" px="-22.0" py="-26.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="16" px="-25.0" py="-24.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="17" px="-35.0" py="-35.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="18" px="-25.0" py="-37.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="19" px="-30.0" py="-38.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="20" px="-38.0" py="-59.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="21" px="-39.0" py="-55.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="22" px="-39.0" py="-49.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="23" px="-39.0" py="-43.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="32" px="-39.0" py="-23.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="33" px="-39.0" py="-23.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="43" px="-24.0" py="-28.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="44" px="-22.0" py="-35.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="45" px="-18.0" py="-35.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="46" px="-24.0" py="-48.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="47" px="-20.0" py="-45.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="48" px="-23.0" py="-41.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="49" px="-27.0" py="-37.0"/>
+        </Frame>
+        <Frame ab="0" al="0" ar="0" at="0" cb="0" cl="0" cr="0" ct="0" name="">
+            <Sprite flip="0" module_id="50" px="-27.0" py="-24.0"/>
+        </Frame>
+    </Frames>
+    <Actions>
+        <Action name="宝宝机器人上">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0"/>
+            <Sequence duration="1" id="0"/>
+            <Sequence duration="1" id="1"/>
+            <Sequence duration="1" id="2"/>
+            <Sequence duration="1" id="3"/>
+            <Sequence duration="1" id="4"/>
+            <Sequence duration="1" id="5"/>
+            <Sequence duration="1" id="6"/>
+            <Sequence duration="1" id="7"/>
+        </Action>
+        <Action name="宝宝机器人右">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0"/>
+            <Sequence duration="1" id="8"/>
+            <Sequence duration="1" id="9"/>
+            <Sequence duration="1" id="10"/>
+            <Sequence duration="1" id="11"/>
+            <Sequence duration="1" id="12"/>
+            <Sequence duration="1" id="13"/>
+            <Sequence duration="1" id="14"/>
+            <Sequence duration="1" id="15"/>
+        </Action>
+        <Action name="机器人下">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0"/>
+            <Sequence duration="1" id="16"/>
+            <Sequence duration="1" id="17"/>
+            <Sequence duration="1" id="18"/>
+            <Sequence duration="1" id="19"/>
+            <Sequence duration="1" id="20"/>
+            <Sequence duration="1" id="21"/>
+            <Sequence duration="1" id="22"/>
+            <Sequence duration="1" id="23"/>
+        </Action>
+        <Action name="宝宝乖上">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0"/>
+            <Sequence duration="1" id="25"/>
+            <Sequence duration="1" id="26"/>
+            <Sequence duration="1" id="27"/>
+            <Sequence duration="1" id="28"/>
+            <Sequence duration="1" id="29"/>
+            <Sequence duration="1" id="30"/>
+            <Sequence duration="1" id="31"/>
+            <Sequence duration="1" id="32"/>
+            <Sequence duration="1" id="33"/>
+        </Action>
+        <Action name="宝宝不乖右">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0"/>
+            <Sequence duration="1" id="34"/>
+            <Sequence duration="1" id="35"/>
+            <Sequence duration="1" id="36"/>
+            <Sequence duration="1" id="37"/>
+            <Sequence duration="1" id="38"/>
+            <Sequence duration="1" id="39"/>
+            <Sequence duration="1" id="40"/>
+            <Sequence duration="1" id="41"/>
+            <Sequence duration="1" id="42"/>
+        </Action>
+        <Action name="宝宝乖不乖下">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0"/>
+            <Sequence duration="1" id="43"/>
+            <Sequence duration="1" id="44"/>
+            <Sequence duration="1" id="45"/>
+            <Sequence duration="1" id="46"/>
+            <Sequence duration="1" id="47"/>
+            <Sequence duration="1" id="48"/>
+            <Sequence duration="1" id="49"/>
+            <Sequence duration="1" id="50"/>
+        </Action>
+    </Actions>
+</Animation>

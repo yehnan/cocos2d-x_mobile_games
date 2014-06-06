@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="mina-core-2.0.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="slf4j-log4j12-1.4.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="log4j-1.2.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="slf4j-api-1.4.3.jar"/>
+	<classpathentry kind="lib" path="mysql-connector-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

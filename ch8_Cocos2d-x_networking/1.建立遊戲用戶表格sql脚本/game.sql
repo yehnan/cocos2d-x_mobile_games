@@ -1,0 +1,12 @@
+CREATE TABLE `newsuser` (
+ 
+`uname` char(20) CHARACTER SET utf8 COLLATE utf8_bin DEFAULT NULL,
+  `upass` char(15) DEFAULT NULL,
+  
+`id` int(11) NOT NULL AUTO_INCREMENT,
+  
+PRIMARY KEY (`id`)
+) 
+ENGINE=InnoDB 
+AUTO_INCREMENT=254 DEFAULT CHARSET=latin1;
+
